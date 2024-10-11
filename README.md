@@ -42,7 +42,7 @@ An elegant and advanced **Calculator Web Application** with powerful features, s
 
 ## 🎥 Demo
 
-Try the **live demo** here: [Advanced Calculator Demo](https://your-website.com/advanced-calculator-demo)
+Try the **live demo** here: [Advanced Calculator Demo](https://dugyalavaruntej.github.io/Calculator/)
 
 ![Demo GIF](https://user-images.githubusercontent.com/123456/demo-calculator.gif)
 
